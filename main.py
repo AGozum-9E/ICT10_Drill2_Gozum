@@ -7,4 +7,7 @@ weather_today = {
         "humidity": 85,    
         "condition": "Partly Sunny"
     
+
     }
+
+display(weather_today, target='output')
